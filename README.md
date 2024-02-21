@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeltattah&label=Profile%20views&color=0e75b6&style=flat" alt="abeltattah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abeltattah" alt="abeltattah" /></a> </p>
-
 - 🔭 I’m currently working on [Package Delivery App](https://github.com/AbelTattah/Pkg-Del)
 
 - 📫 How to reach me **abeltattahh@gmail.com**
