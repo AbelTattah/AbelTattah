@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abel Tattah</h1>
-<h3 align="center">A passionate aspiring full-stack developer from Ghana</h3>
+<h3 align="center">A passionate aspiring full-stack software engineer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeltattah&label=Profile%20views&color=0e75b6&style=flat" alt="abeltattah" /> </p>
 
