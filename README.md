@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeltattah&label=Profile%20views&color=0e75b6&style=flat" alt="abeltattah" /> </p>
 
-- 🔭 I’m currently working on [Package Delivery App](https://github.com/AbelTattah/Pkg-Del)
-
 - 📫 How to reach me **abeltattahh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
