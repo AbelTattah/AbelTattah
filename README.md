@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeltattah&label=Profile%20views&color=0e75b6&style=flat" alt="abeltattah" /> </p>
 
-- 🔭 I’m currently working on [Buddy - Book App](https://github.com/AbelTattah/Buddy)
-
 - 🌱 I’m currently learning **Jest**
 
 - 💬 Ask me about **React Native**
