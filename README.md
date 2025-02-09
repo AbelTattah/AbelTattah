@@ -2,10 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abeltattah&label=Profile%20views&color=0e75b6&style=flat" alt="abeltattah" /> </p>
 
-- 🌱 I’m currently learning **Jest**
-
-- 💬 Ask me about **React Native**
-
 - 📫 How to reach me **abeltattahh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
